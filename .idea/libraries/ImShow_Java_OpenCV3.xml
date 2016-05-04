@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ImShow-Java-OpenCV3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ImShow-Java-OpenCV3/out/artifacts/ImShow_Java_OpenCV3_jar/ImShow-Java-OpenCV3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ImShow-Java-OpenCV3/out/artifacts/ImShow_Java_OpenCV3_jar/ImShow-Java-OpenCV3.jar!/" />
+    </SOURCES>
+  </library>
+</component>

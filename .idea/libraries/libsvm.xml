@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libsvm">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Libs/libsvm-3.21/java/libsvm.jar!/" />
+      <root url="jar://$USER_HOME$/wekafiles/packages/LibSVM/LibSVM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
